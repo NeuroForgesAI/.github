@@ -1,6 +1,8 @@
-# 🧠 NeuroForgeIA
+
 
 <div align="center">
+
+# 🧠 NeuroForgeIA
 
 # 🚀 Construyendo el Futuro de la Inteligencia Artificial
 
